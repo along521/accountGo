@@ -1,0 +1,5 @@
+.DS_Store
+
+# 安装包通过 GitHub Releases 发布，不提交到 Git 历史
+mac/*.dmg
+win/*.exe
