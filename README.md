@@ -10,16 +10,16 @@
 
 ## 下载
 
-当前版本：**v1.1.7**
+当前版本：**v1.1.8**
 
 | 系统 | 支持设备 | 下载 |
 | --- | --- | --- |
-| Windows | Windows 10/11，64 位 | [下载 Windows 安装包](https://github.com/along521/accountGo/releases/latest/download/AccountGo-Setup-1.1.7-x64.exe) |
-| macOS | Apple 芯片（M1/M2/M3/M4 等） | [下载 macOS 安装包](https://github.com/along521/accountGo/releases/latest/download/AccountGo-1.1.7-arm64.dmg) |
+| Windows | Windows 10/11，64 位 | [下载 Windows 安装包](https://github.com/along521/accountGo/releases/latest/download/AccountGo-Setup-1.1.8-x64.exe) |
+| macOS | Apple 芯片（M1/M2/M3/M4 等） | [下载 macOS 安装包](https://github.com/along521/accountGo/releases/latest/download/AccountGo-1.1.8-arm64.dmg) |
 
 也可以前往 [Releases](https://github.com/along521/accountGo/releases) 查看全部版本。
 
-## v1.1.7 新功能
+## 功能亮点
 
 - **邮箱识别**：自动识别邮箱内容，并提供对应的快捷跳转操作。
 - **网站类型识别**：自动判断网站类内容，减少手动选择内容类型的步骤。
@@ -41,7 +41,7 @@
 
 ### Windows
 
-1. 下载 `AccountGo-Setup-1.1.7-x64.exe`。
+1. 下载 `AccountGo-Setup-1.1.8-x64.exe`。
 2. 双击安装包并按提示完成安装。
 3. 从开始菜单或桌面快捷方式打开 AccountGo。
 
@@ -49,7 +49,7 @@
 
 ### macOS
 
-1. 下载 `AccountGo-1.1.7-arm64.dmg`。
+1. 下载 `AccountGo-1.1.8-arm64.dmg`。
 2. 打开 DMG，将 AccountGo 拖入“应用程序”。
 3. 在“应用程序”中打开 AccountGo。
 
@@ -81,8 +81,8 @@ AccountGo 不需要登录，数据不会自动上传到云端。所有内容都�
 下载完成后，可使用 SHA-256 校验文件完整性：
 
 ```text
-70e0106abbc9982c9fe90de52750e7c120a45e0f8be18617f01fb536dfd75a62  AccountGo-1.1.7-arm64.dmg
-ebddb98196299e0a8cd619964cd9b78a9e1e0d383946abd720dd1e5559c21155  AccountGo-Setup-1.1.7-x64.exe
+72bec3355c06d6850b2c7946801000645e57c46bb403b83755cb656b269d5ec0  AccountGo-1.1.8-arm64.dmg
+6adcef523aeab9c424e9308f2c7d70c06e4b34c9846fa6960a3d9b18a0f92792  AccountGo-Setup-1.1.8-x64.exe
 ```
 
 ## 反馈问题
